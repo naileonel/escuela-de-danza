@@ -1,0 +1,168 @@
+/* inicio*/
+header{
+	background-image:url("../img/textura_2.pjg");
+	background-size:100%;
+}
+h1{
+	text-align: center;
+	color: #0B0B61;
+}
+/* MENU */
+nav ul{
+	list-style-type:none;
+	padding-top:24px;
+	margin: 0 -15px 0 0;
+	font-size:14px;
+	line-height:14px;
+	text-transform:uppercase;
+	white-space:nowrap;
+}
+nav li{
+	display: inline-block;
+	position:relative;
+	padding: 2px;
+	margin- left: 10px;
+	margin-right: 30px;
+}
+nav{
+	text-decoration: none;
+	padding: 20px; 
+	color: #eee;
+	text-shadow:2px 2px 4px #000;
+	color:#fff;
+	margin-left:230px;
+}
+a{
+	color:black;
+	text-decoration: none;
+}
+/*section 1*/
+section{
+	background-image:url ("../img/grunge_wall.png");
+	background-size:100%;
+}
+.sobre{
+	text-align: center;
+	color: #0404B4;
+	margin-bottom: 30px;
+	margin-top: 50px;
+}
+
+.danc{
+	background-image:url("../img/dance_12.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin: inherit;
+	height: 350px;
+	width: 250px;
+	padding-top: 120px;
+	color: white;
+	}
+.break{
+	background-image:url("../img/breakdance.jpg");
+	background-size:100%;
+	background-repeat: no-repeat;
+	margin: inherit;
+	height: 350px;
+	width: 250px;
+	background-position: 0 -5px;
+	padding-top: 120px;
+	color: white;
+}
+.jazz{
+	background-image:url("../img/lirical-jazz.jpg");
+	background-size:100%;
+	background-repeat: no-repeat;
+	height: 350px;
+	width: 250px;
+	margin-top: 7px;
+	padding-top: 120px;
+	color: white;
+}
+.arab{
+	background-image:url("../img/arabe.jpg");
+	background-size:100%;
+	background-repeat: no-repeat;
+	margin: inherit;
+	height: 350px;
+	width: 250px;
+	padding-top: 120px;
+	color: white;
+
+}
+.kids{
+	background-image:url("../img/little.jpg");
+	background-size:100%;
+	background-repeat: no-repeat;
+	margin: inherit;
+	height: 350px;
+	width: 250px;
+	padding-top: 120px;
+	color: white;
+	
+}
+.yoga{
+ 	background-image:url("../img/yoga.jpg");
+	background-size:cover;
+	background-repeat: no-repeat;
+	margin: inherit;
+	height: 350px;
+	width: 250px;
+	padding-top: 120px;
+	color: white;
+}
+.spa{
+	margin:10px;
+}
+.pan{
+	margin:10px;
+}
+.caja{
+	opacity: 0.5;
+	background:#151515;
+	padding: 10px;
+}
+/*final*/
+#dan{
+	background-image:url("../img/shoes_1.jpg");
+	background-repeat: no-repeat;
+	background-size: 70%;
+	}
+.contac{
+	color:#000033;
+	font-size: 35px;
+	margin-left: 20%;
+	margin-top: 5%;
+	margin-bottom: 1%;
+}
+.mens{
+	border: solid 1px  #6E6E6E;
+	width: 300px;
+	margin-bottom:1%;
+	margin-left:15%;
+	margin-top:3%;
+	padding-bottom: 3%; 
+}
+.env{
+	background:#0B0B61;
+	width:300px;
+	margin:10px 30px 50px 180px;
+	padding: 10px 10px 10px 10px;
+}
+
+.en{
+	color: white;
+	margin-left: 100px;
+	font-size: 20px;
+}
+/*final*/
+.esc{
+	background:#0B0B61;
+	width:100%; 
+	padding-bottom:20px;
+}
+.cue{
+	color: white;
+	margin-top: 12px;
+	font-size: 10px;
+}

@@ -1,0 +1,132 @@
+/* inicio*/
+header{
+	background-image: ("../img/textura_2.pjg")
+	background-size:100%;
+}
+h1{
+	text-align: center;
+	color: #0B0B61;
+}
+/* MENU */
+nav ul{
+	list-style-type:none;
+	padding-top:24px;
+	margin: 0 -15px 0 0;
+	font-size:14px;
+	line-height:14px;
+	text-transform:uppercase;
+	white-space:nowrap;
+}
+nav li{
+	display: inline-block;
+	position:relative;
+	padding: 2px;
+	margin- left: 10px;
+	margin-right: 30px;
+}
+nav{
+	text-decoration: none;
+	padding: 20px; 
+	color: #eee;
+	text-shadow:2px 2px 4px #000;
+	color:#fff;
+	margin-left:230px;
+}
+a{
+	color:black;
+	text-decoration: none;
+}
+/*section 1*/
+section{
+	background-image:url("../img/grunge_wall.pjg");
+	background-size:100%;
+}
+.sobre{
+	text-align: center;
+	color: #0A0A2A;
+	font-size: 30px;
+	margin-bottom: 30px;
+	margin-top: 100px;
+}
+.dance{
+	width: 250px;
+	height: 250px;
+	margin-left: -10px;
+}
+h2{
+	color: #2E2E2E;
+	font-size: 12px;
+	margin-top: 20px;
+}
+.jul{
+	color: #2E2E2E;
+	margin-top: 20px;
+}
+.ver{
+	background:#0B0B61;
+	width:300px;
+	margin:10px 30px 50px 150px;
+	padding: 10px 10px 10px 10px;
+}
+.julo{
+	width: 300px;
+	height: 450px;
+	margin-top:-145%;
+}
+.fond{
+	background:#6E6E6E;
+	margin-top: 10px;
+}
+.fon{
+	background: #6E6E6E;
+	margin-top: 10px;
+}
+.fnd{
+	background: #6E6E6E;
+	margin-top: 10px;
+}
+
+
+/*final*/
+#dan{
+	background-image:url("../img/shoes_1.jpg");
+	background-repeat: no-repeat;
+	background-size: 70%;
+}
+.contac{
+	color:#000033;
+	font-size: 35px;
+	margin-left: 20%;
+	margin-top: 5%;
+	margin-bottom: 1%;
+}
+.mens{
+	border: solid 1px  #6E6E6E;
+	width: 300px;
+	margin-bottom:1%;
+	margin-left:15%;
+	margin-top:3%;
+	padding-bottom: 3%; 
+}
+.env{
+	background:#0B0B61;
+	width:300px;
+	margin:10px 30px 50px 150px;
+	padding: 10px 10px 10px 10px;
+}
+.en{
+	color: white;
+	margin-left: 100px;
+	font-size: 20px;
+}
+/*final*/
+.esc{
+	background:#0B0B61;
+	width:100%; 
+	padding-bottom:20px;
+}
+.cue{
+	color: white;
+	margin-top: 10px;
+	font-size: 10px;
+}
