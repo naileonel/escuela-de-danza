@@ -126,8 +126,9 @@ section{
 #dan{
 	background-image:url("../img/shoes_1.jpg");
 	background-repeat: no-repeat;
-	background-size: 70%;
-	}
+	background-position: right;
+	margin-right: 200px;
+}
 .contac{
 	color:#000033;
 	font-size: 35px;

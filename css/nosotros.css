@@ -108,10 +108,9 @@ a{
 /* formulario */
 #dan{
 	background-image:url("../img/shoes_1.jpg");
-	background-size: 100%;
 	background-repeat: no-repeat;
 	background-position: right;
-	
+	margin-right: 200px;
 }
 .contac{
 	color:#000033;
